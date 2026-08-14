@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/yashn035/LeetCode-Sums/tree/master/0136-single-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashn035/LeetCode-Sums/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/yashn035/LeetCode-Sums/tree/master/1480-running-sum-of-1d-array) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yashn035/LeetCode-Sums/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
