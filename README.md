@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashn035/LeetCode-Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashn035/LeetCode-Sums/tree/master/0136-single-number) |
+| [0643-maximum-average-subarray-i](https://github.com/yashn035/LeetCode-Sums/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashn035/LeetCode-Sums/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/yashn035/LeetCode-Sums/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yashn035/LeetCode-Sums/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashn035/LeetCode-Sums/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
