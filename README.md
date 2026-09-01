@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashn035/LeetCode-Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashn035/LeetCode-Sums/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
