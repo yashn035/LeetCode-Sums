@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashn035/LeetCode-Sums/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashn035/LeetCode-Sums/tree/master/0344-reverse-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashn035/LeetCode-Sums/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashn035/LeetCode-Sums/tree/master/1071-greatest-common-divisor-of-strings) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashn035/LeetCode-Sums/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashn035/LeetCode-Sums/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
