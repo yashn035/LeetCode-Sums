@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/yashn035/LeetCode-Sums/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashn035/LeetCode-Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashn035/LeetCode-Sums/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashn035/LeetCode-Sums/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashn035/LeetCode-Sums/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashn035/LeetCode-Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashn035/LeetCode-Sums/tree/master/1071-greatest-common-divisor-of-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yashn035/LeetCode-Sums/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
