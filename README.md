@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/yashn035/LeetCode-Sums/tree/master/0141-linked-list-cycle) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashn035/LeetCode-Sums/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/yashn035/LeetCode-Sums/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/yashn035/LeetCode-Sums/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashn035/LeetCode-Sums/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashn035/LeetCode-Sums/tree/master/0189-rotate-array) |
@@ -98,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yashn035/LeetCode-Sums/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yashn035/LeetCode-Sums/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yashn035/LeetCode-Sums/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yashn035/LeetCode-Sums/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
