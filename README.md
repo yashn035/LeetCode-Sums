@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashn035/LeetCode-Sums/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yashn035/LeetCode-Sums/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashn035/LeetCode-Sums/tree/master/1004-max-consecutive-ones-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/yashn035/LeetCode-Sums/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/yashn035/LeetCode-Sums/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/yashn035/LeetCode-Sums/tree/master/1732-find-the-highest-altitude) |
