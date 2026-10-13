@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/yashn035/LeetCode-Sums/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashn035/LeetCode-Sums/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/yashn035/LeetCode-Sums/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/yashn035/LeetCode-Sums/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashn035/LeetCode-Sums/tree/master/0141-linked-list-cycle) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0015-3sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
