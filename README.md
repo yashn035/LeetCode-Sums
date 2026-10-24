@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yashn035/LeetCode-Sums/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashn035/LeetCode-Sums/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashn035/LeetCode-Sums/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/yashn035/LeetCode-Sums/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/yashn035/LeetCode-Sums/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashn035/LeetCode-Sums/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashn035/LeetCode-Sums/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashn035/LeetCode-Sums/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -142,4 +144,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yashn035/LeetCode-Sums/tree/master/0680-valid-palindrome-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
