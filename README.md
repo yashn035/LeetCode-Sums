@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashn035/LeetCode-Sums/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashn035/LeetCode-Sums/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashn035/LeetCode-Sums/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/yashn035/LeetCode-Sums/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/yashn035/LeetCode-Sums/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/yashn035/LeetCode-Sums/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashn035/LeetCode-Sums/tree/master/1004-max-consecutive-ones-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashn035/LeetCode-Sums/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/yashn035/LeetCode-Sums/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/yashn035/LeetCode-Sums/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashn035/LeetCode-Sums/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/yashn035/LeetCode-Sums/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yashn035/LeetCode-Sums/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
